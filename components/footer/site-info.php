@@ -13,6 +13,6 @@
 		<?php printf( esc_html__( 'Proudly published with WordPress.', 'cover2' ) ); ?>
 	</p>
 	<?php if ( has_nav_menu( 'jetpack-social-menu' ) ) : ?>
-		<p><?php cover2_social_menu(); ?></p>
+		<?php cover2_social_menu(); ?>
 	<?php endif; ?>
 </div><!-- .site-info -->
