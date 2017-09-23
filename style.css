@@ -9,3 +9,7 @@ License: 		GNU General Public License v2 or later
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+
+.site-info p {
+	font-size: 1.1rem;
+}
